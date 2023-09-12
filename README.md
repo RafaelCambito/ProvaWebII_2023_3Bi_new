@@ -5,7 +5,7 @@ HEADER + BOARD + ORDERBORD(ITENS) + FOOTER<br />
 
 PARA EXEXUTAR O PROJETO: <br />
 Abrir pasta do projeto no VSCODE e abrir opção terminal<br />
-npm install (Instalar as dependencias)<br />
+npm install (Instalar as dependências)<br />
 npm install yarn -g (instalar yarn global)<br />
 npm i vite (instalar vite)<br />
 npm install react-icons --save (instala a biblioteca React Icons)
