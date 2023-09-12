@@ -25,7 +25,7 @@ export const SocialIcons = styled.div`
     transition: color 0.3s;
 
     &:hover {
-      color: ##0c8a3f;
+      color: #051dfa;
     }
   }
 `;
